@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TwitterPlant</string>
+    <string name="title_activity_twitter_feed">TwitterFeed</string>
+    <string name="com_twitter_sdk_android_CONSUMER_KEY">FRw6n4L4GP3XuTaMi0FIxx7ce</string>
+    <string name="com_twitter_sdk_android_CONSUMER_SECRET">6aIDlsymY7gf1WLlEi9cdebBMW786Q7ZAHl8FbBJPFDcbdYGGu</string>
+    <string name="no_plants">No Plants</string>
+    <string name="no_tweets">No Tweets</string>
+</resources>
